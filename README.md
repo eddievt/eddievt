@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Eddie 👋
 
-<!--
-**eddievt/eddievt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computational Modeling & Data Analytics student at Virginia Tech interested in data science, data engineering, machine learning, and AI.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌊 I'm from Virginia Beach, Virginia
+- 💻 I interned at a defense technology company in Northern Virginia this summer as a Software Engineering Intern
+- 🎮 I enjoy playing video games and watching/playing sports
+- 🍜 I love trying new restaurants and finding new food spots
+- ✈️ I enjoy traveling and exploring new places
+- 🚀 I’m interested in data, software, AI, and building projects that solve real problems
+
+## Technologies
+
+Python | SQL | pandas | NumPy | Matplotlib | Git | GitHub
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/echen5/)
