@@ -1,4 +1,4 @@
-# Hi, I'm Eddie 
+# Hi, I'm Eddie!
 
 I'm a Computational Modeling & Data Analytics student at Virginia Tech interested in data science, data engineering, machine learning, and AI.
 
